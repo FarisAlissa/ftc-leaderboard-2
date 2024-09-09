@@ -52,7 +52,7 @@ since the backend hasn't been changed you will face an issue where all requests 
 what you can do in that case is run chromium in the raspberry pi using the command below which will disable CORS checks in the browser.
 
 ```bash
-chromium-browser --disable-web-security --user-data-dir=/home/pi/Desktop --app=http://localhost:8000 --kiosk
+chromium-browser --disable-web-security --kiosk --user-data-dir=~/chromeTemp http://localhost:8000
 ```
 
 this command should run chromium in full screen and open `localhost:8000` automatically. you should make this command run automatically on raspberry pi on startup "Google it :)"
