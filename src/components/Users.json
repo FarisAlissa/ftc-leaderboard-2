@@ -1,0 +1,126 @@
+{
+  "timestamp": "2021-09-26 12:47:52",
+  "status": 200,
+  "result": [
+    {
+      "id": 1,
+      "name": "...Loading",
+      "role": "ROLE_USER",
+      "points": null,
+      "user_rank": 1,
+      "hidden": false
+    },
+    {
+      "id": 2,
+      "name": "...",
+      "role": "ROLE_USER",
+      "points": null,
+      "user_rank": 2,
+      "hidden": false
+    },
+    {
+      "id": 3,
+      "name": "...",
+      "role": "ROLE_USER",
+      "points": null,
+      "user_rank": 3,
+      "hidden": false
+    },
+    {
+      "id": 4,
+      "name": "...",
+      "role": "ROLE_USER",
+      "points": null,
+      "user_rank": 4,
+      "hidden": false
+    },
+    {
+      "id": 5,
+      "name": "...",
+      "role": "ROLE_USER",
+      "points": null,
+      "user_rank": 5,
+      "hidden": false
+    },
+    {
+      "id": 6,
+      "name": "...",
+      "role": "ROLE_USER",
+      "points": null,
+      "user_rank": 6,
+      "hidden": false
+    },
+    {
+      "id": 7,
+      "name": "...",
+      "role": "ROLE_USER",
+      "points": null,
+      "user_rank": 7,
+      "hidden": false
+    },
+    {
+      "id": 8,
+      "name": "...",
+      "role": "ROLE_USER",
+      "points": null,
+      "user_rank": 8,
+      "hidden": false
+    },
+    {
+      "id": 9,
+      "name": "...",
+      "role": "ROLE_USER",
+      "points": null,
+      "user_rank": 9,
+      "hidden": false
+    },
+    {
+      "id": 10,
+      "name": "...",
+      "role": "ROLE_USER",
+      "points": null,
+      "user_rank": 10,
+      "hidden": false
+    },
+    {
+      "id": 11,
+      "name": "...",
+      "role": "ROLE_USER",
+      "points": null,
+      "user_rank": 11,
+      "hidden": false
+    },
+    {
+      "id": 12,
+      "name": "...",
+      "role": "ROLE_USER",
+      "points": null,
+      "user_rank": 12,
+      "hidden": false
+    },
+    {
+      "id": 13,
+      "name": "...",
+      "role": "ROLE_USER",
+      "points": null,
+      "user_rank": 13,
+      "hidden": false
+    },
+    {
+      "id": 14,
+      "name": "...",
+      "role": "ROLE_USER",
+      "points": null,
+      "user_rank": 13,
+      "hidden": false
+    },
+    {
+      "id": 15,
+      "name": "...",
+      "role": "ROLE_USER",
+      "points": null,
+      "user_rank": 13,
+      "hidden": false
+    }
+  ]
+}

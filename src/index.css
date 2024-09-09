@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: "Minecraft";
+  src: url(./fonts/Minecraft.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Arapix";
+  src: url(./fonts/Arapix.otf) format("opentype");
+}
+@font-face {
+  font-family: "Minecraft2";
+  src: url(./fonts/Minecraft2.otf) format("opentype");
+}

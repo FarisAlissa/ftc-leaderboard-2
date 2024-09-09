@@ -1,0 +1,43 @@
+.Cards{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+
+  position: relative;
+  width: 840px;
+  height: 120px;
+  top: 10px;
+
+  font-family: Minecraft2;
+  direction: rtl;
+  font-size: 46px;
+  line-height: 120px;
+
+  text-align: start;
+
+  background: #eef0f2;
+  border-bottom-style: solid;
+  border-width: 1px;
+  border-bottom-color: rgb(148, 148, 148);
+}
+
+.Name{
+  position: absolute;
+  padding-right: 60px;
+  line-height: 120px;
+  direction: rtl;
+  font-family: 'Arapix';
+  font-size: 70px;
+  color: black;
+}
+
+
+.Points{
+position: absolute;
+  padding-right: 710px;
+  line-height: 125px;
+  text-align: center;
+  font-family: Minecraft2;
+  font-size: 48px;
+  color: black;
+}
